@@ -7,4 +7,4 @@ Welcome to our React Component Library! This library is designed to provide a co
 To get started, you'll need to install the library in your React project. You can do this by running:
 
 ```zsh
-yarn install @your-library-name/react-components
+yarn install react-components
