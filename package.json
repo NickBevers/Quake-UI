@@ -4,6 +4,8 @@
   "description": "A React component library focused on ease of use and customizability",
   "main": "index.js",
   "scripts": {
+    "build": "rollup -c",
+    "build:watch": "rollup -c -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,15 +18,30 @@
     "components",
     "customizing"
   ],
-  "author": "Nick Bevers & Time Vernaeve",
+  "author": {
+    "name": "Nick Bevers",
+    "email": "nick.bevers9@gmail.com",
+    "url": "https://nickbevers.be/"
+  },
+  "contributors": [
+    {
+      "name": "Tim vernaeve",
+      "url": "https://www.timvernaeve.be/"
+    }
+  ],
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/NickBevers/react-components/issues"
   },
   "homepage": "https://github.com/NickBevers/react-components#readme",
   "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.6",
     "@types/react": "^18.2.65",
     "react": "^18.2.0",
+    "rollup": "^4.13.0",
+    "rollup-plugin-dts": "^6.1.0",
     "typescript": "^5.4.2"
   }
 }
