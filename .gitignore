@@ -1,0 +1,7 @@
+# generate a gitignore for a react component library
+/node_modules
+/.cache
+/.idea
+/.vscode
+/.DS_Store
+.env
