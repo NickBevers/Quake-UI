@@ -1,0 +1,30 @@
+{
+  "name": "react-components",
+  "version": "0.0.1",
+  "description": "A React component library focused on ease of use and customizability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickBevers/react-components.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "components",
+    "customizing"
+  ],
+  "author": "Nick Bevers & Time Vernaeve",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/NickBevers/react-components/issues"
+  },
+  "homepage": "https://github.com/NickBevers/react-components#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.65",
+    "react": "^18.2.0",
+    "typescript": "^5.4.2"
+  }
+}
