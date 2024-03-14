@@ -65,6 +65,32 @@ For detailed documentation and examples, visit the documentation (WIP).
 
 ---
 
+## Components
+The following components will be created and available fo use in v1 of this library:
+(note: this list can be edited at all times in case we add extra components)
+- Accordion
+- Badge
+- Breadcrumbs
+- Button
+- Checkbox
+- Dialog
+- Drop Down Menu
+- Link
+- Navigation Menu
+- Pagination
+- Popover
+- Progressbar
+- Radio Group
+- Range Slider
+- Search Bar
+- Select
+- Slider
+- Switch
+- Tabs
+- Toast
+
+---
+
 ## Get Involved
 
 - **Report Bugs:** If you encounter any bugs or issues while using [NAME_HERE], please report them on our [GitHub repository](https://github.com/NickBevers/react-components/issues).
