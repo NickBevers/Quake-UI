@@ -100,6 +100,10 @@ The following components will be created and available fo use in v1 of this libr
 - **Contribute:** We welcome contributions from the community! Feel free to submit pull requests, suggest new features, or help improve documentation.
 
 ---
+## Design
+For those interested in our design process, you can follow it all via the following link to our [public Figma](https://www.figma.com/file/T0cBdvtIJNBqVbSlbi76wX/Component-library?type=design&node-id=106%3A13&mode=design&t=yfLr0iD8ra8TfqwG-1)
+
+---
 
 ## License
 
