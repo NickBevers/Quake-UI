@@ -26,16 +26,26 @@ For those of you who are into TypeScript, no worries we've got you covered. This
 
 ## Installation
 
-To install Quake-ui in your project, simply run:
+To install Quake-ui in your project, simply run the following command:
 
-```
+NPM users:
+```zsh
 npm install Quake-ui
 ```
 
-or
-
-```
+Yarn users:
+```zsh
 yarn add Quake-ui
+```
+
+PNPM users:
+```zsh
+pnpm add Quake-ui
+```
+
+Bun users:
+```zsh
+bun add Quake-ui
 ```
 
 ---
