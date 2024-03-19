@@ -7,7 +7,6 @@
 Welcome to Quake-ui, a versatile and user-friendly React component library designed to make building web applications effortless and enjoyable. Quake-ui emphasizes ease of use and customizability, offering a wide range of components to suit various project requirements. Components will support a light mode, a dark mode and a basic styling that can be imported separately. Those wo don't want and/or need the base styling, can choose to style it themselves by passing along a customStyle prop.
 
 For those of you who are into TypeScript, no worries we've got you covered. This library supports TypeScript for every component.
-
 ---
 
 ## Features
