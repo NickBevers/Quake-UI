@@ -117,7 +117,7 @@ For those interested in our design process, you can follow it all via the follow
 
 ## License
 
-Quake-ui is licensed under the GPL 3.0 (or later) License. See the [LICENSE](https://github.com/NickBevers/react-components/blob/main/LICENSE) file for details.
+Quake-ui is licensed under the GPL-V3.0 License. See the [LICENSE](https://github.com/NickBevers/react-components/blob/main/LICENSE) file for details.
 
 ---
 
