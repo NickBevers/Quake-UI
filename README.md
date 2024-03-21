@@ -1,4 +1,4 @@
-# React Component Library
+# Quake-UI
 
 ---
 
