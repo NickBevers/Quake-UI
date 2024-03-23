@@ -11,7 +11,7 @@ For those of you who are into TypeScript, no worries we've got you covered. This
 
 ## Features
 
-You can find our docs [TBC]
+You can find our docs here [TBC]. For those who would like to contribute to the docs, feel free to open a pull request on our docs-repo.
 
 - **Intuitive API:** Quake-ui provides a straightforward API that simplifies the integration of components into your React applications. With clear and concise documentation, developers can quickly get started and leverage the power of Quake-ui.
 
