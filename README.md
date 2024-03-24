@@ -93,6 +93,7 @@ The following components will be created and available fo use in v1 of this libr
 - Pagination
 - Popover
 - Progressbar
+- Radio Button
 - Radio Group
 - Range Slider
 - Search Bar
