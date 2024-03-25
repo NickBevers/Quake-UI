@@ -86,6 +86,7 @@ The following components will be created and available fo use in v1 of this libr
 - Breadcrumbs
 - Button
 - Checkbox
+- Checkbox Group
 - Dialog
 - Drop Down Menu
 - Link
